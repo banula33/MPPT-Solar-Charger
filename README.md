@@ -15,8 +15,17 @@ The design emphasizes efficient DC-DC conversion, real-time sensing, and robust 
 - Focus on low losses and thermal stability  
 - Supports variable solar input conditions  
 
-📸 Schematic / Layout:
-<img src="YOUR_IMAGE_LINK_HERE" width="350"/>
+<table>
+	<tr>
+		<td align="center"><strong>Schematic</strong></td>
+		<td align="center"><strong>PCB Layout</strong></td>
+	</tr>
+	<tr>
+		<td align="center"><img src="images/60vsch.png" width="320"/></td>
+		<td align="center"><img src="images/60vbuckpcb.png" width="270"/></td>
+	</tr>
+</table>
+
 
 ---
 
@@ -26,8 +35,16 @@ The design emphasizes efficient DC-DC conversion, real-time sensing, and robust 
 - Stable output for ESP32 and sensor modules  
 - Optimized PCB routing for power integrity  
 
-📸 Schematic / Layout:
-<img src="YOUR_IMAGE_LINK_HERE" width="350"/>
+<table>
+	<tr>
+		<td align="center"><strong>Schematic</strong></td>
+		<td align="center"><strong>PCB Layout</strong></td>
+	</tr>
+	<tr>
+		<td align="center"><img src="images/12vsch.png" width="320"/></td>
+		<td align="center"><img src="images/12vbuckpcb.png" width="320"/></td>
+	</tr>
+</table>
 
 ---
 
@@ -37,8 +54,16 @@ The design emphasizes efficient DC-DC conversion, real-time sensing, and robust 
 - GPIO expansion for sensing and control signals  
 - Modular design for future firmware integration  
 
-📸 ESP32 Hardware Integration:
-<img src="YOUR_IMAGE_LINK_HERE" width="350"/>
+<table>
+	<tr>
+		<td align="center"><strong>ESP32 Schematic</strong></td>
+		<td align="center"><strong>ESP32 PCB Layout</strong></td>
+	</tr>
+	<tr>
+		<td align="center"><img src="images/esp322sch.png" width="320"/></td>
+		<td align="center"><img src="images/ESP32pcb.png" width="320"/></td>
+	</tr>
+</table>
 
 ---
 
@@ -49,18 +74,16 @@ The design emphasizes efficient DC-DC conversion, real-time sensing, and robust 
 - Designed for high-voltage monitoring (solar + battery side)  
 - Focus on accuracy and noise reduction  
 
-📸 Voltage Sensing Circuit:
-<img src="YOUR_IMAGE_LINK_HERE" width="350"/>
-
----
-
-### 🔌 Current Sensing Circuit
-- Real-time current measurement hardware  
-- Used for power monitoring and control feedback  
-- Designed for stable and isolated sensing  
-
-📸 Current Sensing:
-<img src="YOUR_IMAGE_LINK_HERE" width="350"/>
+<table>
+	<tr>
+		<td align="center"><strong>Voltage Sensing Schematic</strong></td>
+		<td align="center"><strong>Voltage Sensing PCB</strong></td>
+	</tr>
+	<tr>
+		<td align="center"><img src="images/voltage%20sensing%20sch.png" width="320"/></td>
+		<td align="center"><img src="images/VOLTAGE_SENSING.png" width="320"/></td>
+	</tr>
+</table>
 
 ---
 
@@ -98,12 +121,9 @@ The design emphasizes efficient DC-DC conversion, real-time sensing, and robust 
 
 ## 📸 Project Gallery
 <div align="center">
-
-<img src="YOUR_IMAGE_LINK_HERE" width="250"/>
-<img src="YOUR_IMAGE_LINK_HERE" width="250"/>
-<img src="YOUR_IMAGE_LINK_HERE" width="250"/>
-<img src="YOUR_IMAGE_LINK_HERE" width="250"/>
-
+	<img src="images/3D_SOLAR.png" width="220"/>
+	<img src="images/PCB_SOLAR.png" width="220"/>
+	<img src="images/SCH_SOLAR.png" width="220"/>
 </div>
 
 ---
