@@ -121,9 +121,9 @@ The design emphasizes efficient DC-DC conversion, real-time sensing, and robust 
 
 ## 📸 Project Gallery
 <div align="center">
-	<img src="images/3D_SOLAR.png" width="220"/>
-	<img src="images/PCB_SOLAR.png" width="220"/>
-	<img src="images/SCH_SOLAR.png" width="220"/>
+	<img src="images/3D_SOLAR.png" width="370"/>
+	<img src="images/PCB_SOLAR.png" width="370"/>
+	<img src="images/SCH_SOLAR.png" width="370"/>
 </div>
 
 ---
