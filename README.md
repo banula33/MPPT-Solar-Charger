@@ -86,6 +86,18 @@ The design emphasizes efficient DC-DC conversion, real-time sensing, and robust 
 </table>
 
 ---
+## 📊 Metal Enclosure Design
+
+<table>
+	<tr>
+		<td align="center"><img src="images/en4.png" width="320"/></td>
+		<td align="center"><img src="images/en3.png" width="320"/></td>
+		<td align="center"><img src="images/en 1.png" width="320"/></td>
+		<td align="center"><img src="images/en 2.png" width="320"/></td>
+	</tr>
+</table>
+
+---
 
 ## 🧩 System Highlights
 - Modular dual buck converter architecture  
@@ -125,8 +137,15 @@ The design emphasizes efficient DC-DC conversion, real-time sensing, and robust 
 	<img src="images/PCB_SOLAR.png" width="370"/>
 	<img src="images/SCH_SOLAR.png" width="370"/>
 </div>
+---
+
+## 📸 Product
+<div align="center">
+	<img src="images/real.jpeg" width="300"/>
+</div>
 
 ---
+
 
 ## 🚀 Applications
 - Solar Energy Charging Systems  
