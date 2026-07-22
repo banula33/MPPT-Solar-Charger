@@ -140,11 +140,31 @@ The design emphasizes efficient DC-DC conversion, real-time sensing, and robust 
 ---
 
 ## 📸 Product
-<div align="center">
-	<img src="images/real.jpeg" width="300"/>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="images/r2.jpeg" width="235"/>
+    </td>
+    <td>
+      <img src="images/r1.jpeg" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/r4.jpeg" width="300"/>
+    </td>
+    <td>
+      <img src="images/r3.jpeg" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
+<div align="center">
+  <video width="600" controls>
+    <source src="https://github.com/user-attachments/assets/xxxxxxxx" type="video/mp4">
+  </video>
+</div>
 
 
 ## 🚀 Applications
