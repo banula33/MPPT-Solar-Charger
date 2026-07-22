@@ -1,4 +1,9 @@
-# ☀️ Solar Charge Controller with Basic MPPT (Ongoing)
+# ☀️ Solar Charge Controller with Basic MPPT
+
+
+https://github.com/user-attachments/assets/949aa6ff-0bf6-4631-9371-f4ed9af47bb7
+
+
 
 ## 📌 Overview
 This project focuses on the design and development of a **solar charge controller with basic Maximum Power Point Tracking (MPPT)** for efficient energy harvesting and battery charging. The system is built around a **modular power electronics architecture** with embedded control capability for future expansion.
@@ -160,11 +165,7 @@ The design emphasizes efficient DC-DC conversion, real-time sensing, and robust 
 </table>
 
 ---
-<div align="center">
-  <video width="600" controls>
-    <source src="https://github.com/user-attachments/assets/xxxxxxxx" type="video/mp4">
-  </video>
-</div>
+
 
 
 ## 🚀 Applications
